@@ -8,4 +8,4 @@ print(age)
 age = int(age+2)
 print(age)
 is_student = True
-print(is_student)
+print('is_student')
